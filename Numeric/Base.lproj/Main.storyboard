@@ -41,6 +41,7 @@
                     <connections>
                         <outlet property="label" destination="Aso-aT-HTJ" id="gk6-sz-9Dv"/>
                         <outlet property="picker" destination="REo-q7-B6T" id="nLl-je-XR1"/>
+                        <outlet property="pickerView" destination="REo-q7-B6T" id="bd9-h8-9f5"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
